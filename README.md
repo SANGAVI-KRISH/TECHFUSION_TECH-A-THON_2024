@@ -1,19 +1,30 @@
 # TECHFUSION_TECH-A-THON_2024
-    Mental Health Chat Bot
-Introduction
+    **Mental Health Chat Bot**
+**Introduction**
+
 The Mental Health Chat Bot is a web application built with Streamlit that aims to support mental well-being by providing users with personalized relaxation tips and stress relief techniques. Leveraging the capabilities of the Ollama language model, the chatbot generates actionable advice based on user-provided mood or stress level inputs.
-Features
+
+**Features**
+
 •	Personalized Relaxation Tips: Offers tailored advice for stress relief based on user input.
 •	Interactive Interface: Simple text input to describe mood or stress level.
 •	Real-Time Responses: Provides immediate feedback and suggestions.
 Requirements
+
 To run this application, ensure you have the following:
+
 •	Python 3.8+: The application is compatible with Python 3.8 and above.
+
 •	Streamlit: For creating the web app interface.
+
 •	LangChain Core: Core library for building language model chains.
+
 •	LangChain Community: Community extensions and tools for language models.
+
 •	Ollama: Language model used to generate responses.
-Installation
+
+**Installation**
+
 Follow these steps to set up the environment and run the app:
 1.	Clone the Repository:
 git clone <repository_url>
