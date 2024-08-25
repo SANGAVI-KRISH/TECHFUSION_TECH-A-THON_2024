@@ -63,8 +63,6 @@ Replace app.py with the filename of your Streamlit script if different.
 
 **2.	Interacting with the Chat Bot:**
 
-o	Open the App: Navigate to http://localhost:8501 in your web browser.
-
 o	Enter Mood/Stress Level: Type in your mood or stress level into the input box.
 
 o	Receive Tips: The chatbot will generate and display personalized relaxation tips and stress relief strategies.
